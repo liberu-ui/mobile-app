@@ -1,6 +1,6 @@
 # Mobile App
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/mobile-app.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/mobile-app.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/mobile-app.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/mobile-app.svg) 
 
 Laravel Mobile App
 
